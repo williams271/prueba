@@ -7,7 +7,7 @@ package biblioteca;
 
 /**
  *
- * @author usuario
+ //hola
  */
 public class socio {
     private int rut;
